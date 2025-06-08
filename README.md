@@ -1,7 +1,9 @@
 # TuyaRoonVolumeKnob
 A way to use the Tuya Smart Knob as a Volume Control for a Roon Zone of your choice, with a web interface to control settings
 
-To achive the described functionality we are using the following hardware:
+NOTE: this repository is still work in progress and is not complete. Don't use it as yet, or do so at your own peril.
+
+To achieve the described functionality we are using the following hardware:
 
 - Raspberry Pi 4
 - SMLIGHT 7 Zigbee Controller
