@@ -21,3 +21,5 @@ Important for making the Extension work:
 2) Open the web interface: mytuyaknob.local:8081 (replace mytuyaknob.local with the name or IP address of the Raspberry Pi)
   
 The full description of how to set up the Raspberry Pi can be found in the Wiki.
+
+<img width="985" alt="image" src="https://github.com/user-attachments/assets/96f3d97c-5fa6-4969-911f-5ed1a2cd23cb" />
